@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Vishal Tyagi 👋
+I'm a CSE freshman in SRM KTR with interest in Web Development
+
+### Tech stack
+* Next.js
+* React.js
+* Javascript
+* Tailwind CSS
 
 <!--
 **VishalTyagi098/VishalTyagi098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
