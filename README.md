@@ -1,5 +1,5 @@
 ### Hi, I'm Vishal Tyagi 👋
-I'm a CSE freshman in SRM KTR with interest in Web Development
+I'm a CSE sophomore in SRM KTR with interest in Web Development
 
 ### Tech stack
 * Next.js
