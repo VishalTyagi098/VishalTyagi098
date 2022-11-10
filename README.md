@@ -3,7 +3,7 @@
 </div>  
   
 
-#### <div align="center">Hey there, I'm Vishal! 
+#### <div align="center"> <h2>Hey there, I'm Vishal! </h2>
 I'm a student at SRMIST pursuing Computer Science and Engineering. I'm passionate about Web development 👨‍💻  and creating solutions through websites for businesses and individuals in need. 🚀</div>  
   
 
