@@ -84,23 +84,16 @@ I'm a student at SRMIST pursuing Computer Science and Engineering. I'm passionat
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VishalTyagi098&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VishalTyagi098&theme=dark&hide_border=true&include_all_commits=true&count_private=true" align="center" /></div>  
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalTyagi098&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalTyagi098&theme=dark&hide_border=true" align="center" /></div>  
+
+
+<br/>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalTyagi098&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>  
 
   
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
