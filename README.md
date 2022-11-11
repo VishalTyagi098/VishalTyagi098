@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
-#### <div align="center"> <h2>Hey there, I'm Vishal! </h2>
+#### <div align="center"> <h1>Hey there, I'm Vishal! </h1>
 I'm a student at SRMIST pursuing Computer Science and Engineering. I'm passionate about Web development 👨‍💻  and creating solutions through websites for businesses and individuals in need. 🚀</div>  
   
 
